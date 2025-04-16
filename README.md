@@ -84,4 +84,3 @@ python business_analysis.py
 [S.Surendranath Reddy]
 
 [singamsurendra14@gmail.com /https://github.com/singam2006]
-
