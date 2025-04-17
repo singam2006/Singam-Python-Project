@@ -73,7 +73,7 @@ Clone the repository
 Ensure dependencies are installed (see requirements.txt)
 
 Place python project.csv in the project directory
-
+ 
 Run the Python script to see output and visualizations
 
 bash
